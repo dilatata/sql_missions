@@ -68,7 +68,7 @@ insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) val
 insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(2, '1박2일', '2007/08/05', NULL, '나영석', 1);
 insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(3, '동물농장', '2001/05/01', NULL, '이덕건', 3);
 insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(4, '런닝맨', '2010/07/11', NULL, '정철민', 3);
-insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(5, '유희열의 스케치북', '2004/24/09', 'NULL', '이황선', 1);
+insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(5, '유희열의 스케치북', '2004/24/09', NULL, '이황선', 1);
 insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(6, '놀면 뭐하니', '2019/07/27', NULL, '김태호', 2);
 insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(7, '호텔 델루나', '2019/07/13', '2019/09/01', '이동규', 5);
 insert into programs (pr_id, pr_name, start_date, end_date, producer, br_id) values(8, '100분 토론', '1999/10/21', NULL, '김성진', 2);
