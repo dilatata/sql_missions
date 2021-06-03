@@ -104,5 +104,5 @@ insert into cl_br_match (cl_id, pr_id) values (14, 10);
 insert into cl_br_match (cl_id, pr_id) values (15, 10);
 insert into cl_br_match (cl_id, pr_id) values (16, 10);
 insert into cl_br_match (cl_id, pr_id) values (17, 10);
-insert into cl_br_match (cl_id, pr_id) values (18, 10);
+insert into cl_br_match (cl_id, pr_id) values (8, 10);
 
