@@ -5,6 +5,8 @@
 <details>  
 <strong>😎참여 인원</strong>: 2명 (정주영, 조태익) <br>
 <strong>📝내용</strong>: SQL 기본 문제 제작 <br>
+<strong>🗂 FILE </strong> <br>
+SQL_quiz_1.html
 <br>
  <strong>💪feedback 3조(박철희, 유지현)</strong> <br>
 > 1. 1번문제에서 해당 내선번호를 사용하는 사람들의 정보를 출력하는 것이기 때문에 내선번호가 함께 출력되면 좋을 것 같습니다. <br>
@@ -21,17 +23,20 @@
 <details>  
 <strong>😎참여 인원</strong>: 3명 (김수연, 부석민, 정주영) <br>
 <strong>📝내용</strong>: SQL outer_join 이용한 문제 제작 <br>
+<strong>🗂 FILE </strong> <br>
+SQL_quiz_2.html
 
 </details>
 
 <h3>0603 MISSION</h3>
-0603mission.sql <br>
-0603mission_celebrity_ERD.pdf <br>
-PROGRAMS_wiki.pdf <br>
+
 
 <details>  
 <strong>😎참여 인원</strong>: 5명 (반재광, 이홍주, 이진영, 정주영A, 정주영B) <br>
 <strong>📝내용</strong>: 자율주제로 페이지단 제작 및 SQL query 제작 <br>
-<br>
+<strong>🗂 FILE </strong> <br>
+0603mission.sql <br>
+0603mission_celebrity_ERD.pdf <br>
+PROGRAMS_wiki.pdf <br>
 
 </details>
