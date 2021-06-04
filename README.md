@@ -23,3 +23,15 @@
 <strong>📝내용</strong>: SQL outer_join 이용한 문제 제작 <br>
 
 </details>
+
+<h3>0603 MISSION</h3>
+0603mission.sql <br>
+0603mission_celebrity_ERD.pdf <br>
+PROGRAMS_wiki.pdf <br>
+
+<details>  
+<strong>😎참여 인원</strong>: 5명 (반재광, 이홍주, 이진영, 정주영A, 정주영B) <br>
+<strong>📝내용</strong>: 자율주제로 페이지단 제작 및 SQL query 제작 <br>
+<br>
+
+</details>
