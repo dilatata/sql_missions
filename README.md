@@ -49,5 +49,8 @@ PROGRAMS_wiki.pdf <br>
 <strong>📝내용</strong>: 자율주제로 SQL query 제작 <br>
 <strong>🗂 FILE </strong> <br>
 folder: 0607mission <br>
+folder: sqlfinal <br>
+before feedback : sqlfinal.html <br>
+after feedback : sqlfinal(v2).html <br>
 
 </details>
