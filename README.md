@@ -40,3 +40,14 @@ SQL_quiz_2.html
 PROGRAMS_wiki.pdf <br>
 
 </details>
+
+<h3>0607 MISSION</h3>
+
+
+<details>  
+<strong>😎참여 인원</strong>: 4명 (류선영, 손유진, 이성규, 정주영A) <br>
+<strong>📝내용</strong>: 자율주제로 SQL query 제작 <br>
+<strong>🗂 FILE </strong> <br>
+folder: 0607mission <br>
+
+</details>
